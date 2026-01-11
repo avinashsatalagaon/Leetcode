@@ -1,4 +1,4 @@
-🚀 LeetCode Solutions & Algorithm Practice
+##🚀 LeetCode Solutions & Algorithm Practice
 Welcome to my LeetCode repository! This project contains my solutions to various coding challenges, categorized by difficulty and topic. I use this space to refine my problem-solving skills and prepare for technical interviews.
 📊 Progress DashboardKeeping track of progress is essential for staying motivated. Below is the current breakdown of solved problems:
 Difficulty  Solved  Goal
