@@ -11,7 +11,7 @@ Difficulty    Solved    Goal
 🟡 Medium      32       100
  
 🔴 Hard        5        100
-    Total      85       300
+    
 
 📬 Contact
 LinkedIn: www.linkedin.com/in/avinashsatalagaon
