@@ -4,15 +4,14 @@ Welcome to my LeetCode repository! This project contains my solutions to various
 
 📊 Progress DashboardKeeping track of progress is essential for staying motivated. Below is the current breakdown of solved problems:
 
-Difficulty  Solved  Goal
+Difficulty    Solved    Goal
 
-🟢 Easy      45     100
+🟢 Easy        45       100
 
-🟡 Medium    32     100
-
-🔴 Hard      5     100
-
-Total         85    300
+🟡 Medium      32       100
+ 
+🔴 Hard        5        100
+    Total      85       300
 
 📬 Contact
 LinkedIn: www.linkedin.com/in/avinashsatalagaon
