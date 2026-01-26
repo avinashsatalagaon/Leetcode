@@ -1,6 +1,5 @@
 # Write your MySQL query statement below
-select *
-from (select 'Low Salary' as category,
+select 'Low Salary' as category,
 count(income) as accounts_count
 from accounts
 where income<20000
@@ -17,5 +16,4 @@ union all
 select 'High Salary' as category,
 count(income) as accounts_count
 from accounts
-where income>50000)T
-order by accounts_count DESC
+where income>50000
